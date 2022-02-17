@@ -5,10 +5,10 @@
 
 
 - 🌱 I’m currently learning **New_Technologies**
--[My image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 
+<p align="left"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
