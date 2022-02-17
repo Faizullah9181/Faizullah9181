@@ -4,7 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=splash-aztecs&label=Profile%20views&color=0e75b6&style=flat" alt="splash-aztecs" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **New_Technologies**
+- name: Full-year calendar
+  uses: lowlighter/metrics@latest
+  with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
