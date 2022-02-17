@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splash-aztecs&show_icons=true&locale=en&layout=compact" alt="splash-aztecs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splash-aztecs&theme=dark&show_icons=true&locale=en" alt="splash-aztecs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splash-aztecs&theme=aura&show_icons=true&locale=en" alt="splash-aztecs" /></p>
