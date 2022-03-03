@@ -19,9 +19,5 @@
 <a href="https://www.hackerrank.com/faizullah9181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizullah9181" height="30" width="40" /></a>
 <a href="https://discord.gg/FAIZ#5456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FAIZ#5456" height="30" width="40" /></a>
 </p>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizullah9181&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="faizullah9181" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizullah9181&theme=aura&show_icons=true&locale=en" alt="faizullah9181" /></p>
