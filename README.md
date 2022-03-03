@@ -15,7 +15,7 @@
 <a href="https://discord.gg/FAIZ#5456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FAIZ#5456" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/Faizullah9181/Faizullah9181/blob/main/code.gif" width="500" height="320" style="max-width: 100%;">
+<img align="center" alt="GIF" src="https://github.com/Faizullah9181/Faizullah9181/blob/main/code.gif" width="560" height="320" style="max-width: 100%;">
 
 
 
