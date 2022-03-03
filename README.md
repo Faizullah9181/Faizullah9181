@@ -20,4 +20,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizullah9181&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="faizullah9181" /></p>
-<p><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark">    <img  alt="FAIZULLAH9181's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FAIZULLAH9181?cardType=github&theme=ocean-dark" />  </a></p>
+<p><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark"><img align="left" alt="FAIZULLAH9181's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FAIZULLAH9181?cardType=github&theme=ocean-dark" /> </a></p>
