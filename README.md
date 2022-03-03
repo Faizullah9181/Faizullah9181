@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/Faizullah9181/Faizullah9181/blob/main/code.gif" width="500" height="320" style="max-width: 100%;">
+<img align="center" alt="GIF" src="https://github.com/Faizullah9181/Faizullah9181/blob/main/code.gif" width="500" height="320" style="max-width: 100%;">
 
 
 <h3 align="left">Connect with me:</h3>
