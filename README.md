@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizullah</h1>
 <h3 align="center">A CSE Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=splash-aztecs&label=Profile%20views&color=0e75b6&style=flat" alt="splash-aztecs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizullah9181&label=Profile%20views&color=0e75b6&style=flat" alt="splash-aztecs" /> </p>
 
 
 - 🌱 I’m currently learning **New_Technologies**
