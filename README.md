@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faizullah</h1>
-<h3 align="center">A CSE Student</h3>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋,I'm Faizullah ....;A CSE Student..;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Faizullah...;A+CSE+Student...;Nice+to+meet+you+%3A))](https://git.io/typing-svg)
 </h1>
 
 
