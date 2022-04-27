@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi,Faizullah, A CSE Student
+- 👋 Hi,I'm Faizullah, A CSE Student
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning Data Science,Development And DSA
 - 💞️ I’m looking to collaborate on projects related to Data science and Django
