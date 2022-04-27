@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faizullah</h1>
 <h3 align="center">A CSE Student</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋,I'm Faizullah ....;A CSE Student..;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 
