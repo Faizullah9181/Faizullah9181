@@ -1,5 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Faizullah...;A+CSE+Student...;Nice+to+meet+you+%3A))](https://git.io/typing-svg)
-
+ <h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Faizullah...;A+CSE+Student...;Nice+to+meet+you)](https://git.io/typing-svg)
+</h1>
 
 
 
