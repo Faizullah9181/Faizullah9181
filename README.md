@@ -7,7 +7,10 @@
 
 
 
-- 🌱 I’m currently learning **New_Technologies**
+👋 Hi,Faizullah, A CSE Student
+👀 I’m interested in Machine learning and AI
+🌱 I’m currently learning Data Science,Development And DSA
+💞️ I’m looking to collaborate on projects related to Data science and Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
