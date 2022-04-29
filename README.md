@@ -33,5 +33,4 @@
 
 <br>
 
-## Snake Eating Contribution Graph
-![snake gif](https://github.com/faizullah9181/faizullah9181/blob/output/github-contribution-grid-snake.svg)
+
