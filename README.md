@@ -10,8 +10,8 @@
 
   <p>
     <a href="https://faiz-ai.dev/"><img src="https://img.shields.io/badge/Portfolio-faiz--ai.dev-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/faizullah-0597271b9"><img src="https://img.shields.io/badge/LinkedIn-Faiz_Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/faizull99685222"><img src="https://img.shields.io/badge/X-@faizull99685222-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://www.linkedin.com/in/faizullah9181/"><img src="https://img.shields.io/badge/LinkedIn-Faiz_Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/dot_ragnar"><img src="https://img.shields.io/badge/X-@dot__ragnar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 
 </div>
@@ -134,7 +134,7 @@ If you are working on software products, backend systems, applied AI, full-stack
 
 <p>
   <a href="https://faiz-ai.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-  <a href="https://www.linkedin.com/in/faizullah-0597271b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/faizullah9181/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://kaggle.com/faizullah786"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Follow on Kaggle" /></a>
   <a href="https://www.hackerrank.com/faizullah9181"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
 </p>
